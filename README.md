@@ -20,15 +20,16 @@ Nuestro rol será realizar un **análisis** completo que permita reconocer el co
 
 ### `EDA` (Exploratory Data Analysis)
 
->Archivos .ipynb con un análisis exploratorio de los datos y su descripción. 
+>[Archivos .ipynb](./01-DESCARGA.ipynb) - con un análisis exploratorio de los datos y su descripción. 
+>[Archivos .ipynb](./02-LECTURA.ipynb) - con un análisis exploratorio de los datos y su descripción.
 
 ### `Dashboard`
 
->Archivos .pbix 
+>[Archivos .pbix](./PI_DA_RAFTXO.pbix) - presentación PowerBI
 
 ### `Análisis` / `KPIs`
 
->Archivos .pdf ???
+>[Presentación PowerBI](https://app.powerbi.com/view?r=eyJrIjoiM2IzZjM5MjctMWRkZS00ZDhjLTg2M2EtYjIzN2UwMzhlNDdlIiwidCI6IjE1YzJjNjNmLWVlNzUtNDc5ZC04MjU4LTI0YTYwN2M2Nzk3YyIsImMiOjl9) - presentación PowerBI online
 
 ### _**Desafíos adicionales**_
 
